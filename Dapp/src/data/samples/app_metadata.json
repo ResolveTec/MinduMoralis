@@ -1,0 +1,177 @@
+[
+	{
+		"ID": 1001,
+		"foreign_UID": 9999,
+		"type": null,
+		"meta": {
+			"title": "Meditação Templária",
+			"subtitle": null,
+			"teacher_ID": [1001,1002]
+		},
+		"metrics": {
+			"tag": [],
+			"progress": null,
+			"progress_info": null
+		},
+		"media": {
+			"imageURL": "arte1.png",
+			"videoURL": ""
+		},
+		"cart": {
+			"col": "",
+			"value": 0
+		},
+		"status": 1,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+	},
+	{
+		"ID": 1002,
+		"foreign_UID": 9999,
+		"type": null,
+		"meta": {
+			"title": "Meditação Templária - 2",
+			"subtitle": null,
+			"teacher_ID": [1001]
+		},
+		"metrics": {   
+			"tag": [],
+			"progress": null,
+			"progress_info": null
+		},
+		"media": {
+			"imageURL": "arte2.png",
+			"videoURL": ""
+		},
+		"cart": {
+			"col": "",
+			"value": 0
+		},
+		"status": 1,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+	},	
+	{
+		"ID": 1003,
+		"foreign_UID": 9999,
+		"type": null,
+		"meta": {
+			"title": "Meditação Templária - 3",
+			"subtitle": null,
+			"teacher_ID": [0]
+		},
+		"metrics": {
+			"tag": [],
+			"progress": null,
+			"progress_info": null
+		},
+		"media": {
+			"imageURL": "arte3.png",
+			"videoURL": ""
+		},
+		"cart": {
+			"col": "",
+			"value": 0
+		},
+		"status": 1,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+	},	
+	{
+		"ID": 1004,
+		"foreign_UID": 9999,
+		"type": null,
+		"meta": {
+			"title": "Meditação Templária - 4",
+			"subtitle": null,
+			"teacher_ID": [1001]
+		},
+		"metrics": {
+			"tag": [],
+			"progress": null,
+			"progress_info": null
+		},
+		"media": {
+			"imageURL": "arte4.png",
+			"videoURL": ""
+		},
+		"cart": {
+			"col": "",
+			"value": 0
+		},
+		"status": 2,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+	},	
+	{
+		"ID": 1005,
+		"foreign_UID": 9999,
+		"type": null,
+		"meta": {
+			"title": "Meditação Templária - B2",
+			"subtitle": null,
+			"teacher_ID": [0]
+		},
+		"metrics": {
+			"tag": [],
+			"progress": null,
+			"progress_info": null
+		},
+		"media": {
+			"imageURL": null,
+			"videoURL": ""
+		},
+		"cart": {
+			"col": "",
+			"value": 0
+		},
+		"status": 2,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+	},
+	{
+		"ID": 1006,
+		"foreign_UID": 9999,
+		"type": null,
+		"meta": {
+			"title": "Meditação Solo - Extra",
+			"subtitle": null,
+			"teacher_ID": [0]
+		},
+		"metrics": {
+			"tag": [],
+			"progress": null,
+			"progress_info": null
+		},
+		"media": {
+			"imageURL": null,
+			"videoURL": ""
+		},
+		"cart": {
+			"col": "",
+			"value": 0
+		},
+		"status": 2,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+	},	
+	{
+		"ID": 1010,
+		"foreign_UID": 9999,
+		"type": null,
+		"meta": {
+			"title": "SEJA FREI!",
+			"subtitle": null,
+			"teacher_ID": [1002]
+		},
+		"metrics": {
+			"tag": [],
+			"progress": null,
+			"progress_info": null
+		},
+		"media": {
+			"imageURL": null,
+			"videoURL": ""
+		},
+		"cart": {
+			"col": "",
+			"value": 0
+		},
+		"status": -10,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+	}
+]

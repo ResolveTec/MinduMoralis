@@ -1,0 +1,47 @@
+[
+	{
+		"class_ID": 1002,
+		"class_foreign_UID": 9999,
+		"class_foreign_course_ID": 1001,
+		"class_title": "Pausa Contemplativa",
+		"class_description_short": "",
+		"class_description": "",		
+		"class_run": 10,
+		"class_sample": true,
+		"class_master": false,
+		"class_activities": 8,
+		"class_hasvideo": false,
+		"class_videoURL": "",
+		"class_bigtext": ""
+	},
+	{
+		"class_ID": 1003,
+		"class_foreign_UID": 9999,
+		"class_foreign_course_ID": 1001,
+		"class_title": "Encapsulamento alternativo substancial",
+		"class_description_short": "",
+		"class_description": "",
+		"class_run": 67,
+		"class_sample": false,
+		"class_master": true,
+		"class_activities": 18,
+		"class_hasvideo": false,
+		"class_videoURL": "",
+		"class_bigtext": ""
+	},
+	{
+		"class_ID": 1004,
+		"class_foreign_UID": 9999,
+		"class_foreign_course_ID": 1002,
+		"class_title": "Dendritos Atômicos",
+		"class_description_short": "",
+		"class_description": "",		
+		"class_run": 1,
+		"class_sample": false,
+		"class_master": false,
+		"class_activities": 1,
+		"class_hasvideo": false,
+		"class_videoURL": "",
+		"class_bigtext": ""
+	}
+]

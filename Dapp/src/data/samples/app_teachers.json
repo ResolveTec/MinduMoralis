@@ -1,0 +1,52 @@
+[
+	{
+		"teacher_ID": 1002,
+		"teacher_foreign_UID": 9999,
+		"teacher_foreign_course_ID": 1001,
+		"teacher_type": null,
+		"teacher_meta": {
+			"name": "Juliana",
+			"surname": "Camargo",
+			"email": "jccamargo@yellowsub.com.br"
+		},
+		"teacher_info": {
+			"teacher_since": null,
+			"teacher_until": null
+		},
+		"teacher_status": 1
+	},
+	{
+		"teacher_ID": 1001,
+		"teacher_foreign_UID": 9999,
+		"teacher_foreign_course_ID": 1001,
+		"teacher_type": null,
+		"teacher_meta": {
+			"name": "Charles",
+			"surname": "Betito",
+			"email": "cbetito@you.usp.br"
+		},
+		"teacher_info": {
+			"teacher_since": null,
+			"teacher_until": null
+		},
+		"teacher_status": 1
+	},
+	{
+		"teacher_ID": 1003,
+		"teacher_foreign_UID": 9999,
+		"teacher_foreign_course_ID": 1001,
+		"teacher_type": null,
+		"teacher_meta": {
+			"name": "Bezalel",
+			"surname": "Shihashen",
+			"email": "bebel@biblegirl.pt"
+		},
+		"teacher_info": {
+			"teacher_since": null,
+			"teacher_until": null
+		},
+		"teacher_status": 1
+	}
+]
+
+ 

@@ -1,0 +1,89 @@
+[
+	{ 
+		"test_ID": 1001,
+		"test_foreign_UID": 9999,
+		"test_foreign_course_ID": 1001,
+		"test_foreign_class_ID": 1002,
+		"test_question": "Qual a idade da terra?",
+		"test_useranswer": 1,
+		"test_rightanswer": 1013,
+		"test_choices": [
+						{
+							"test_choice_ID": 1001,
+							"test_question": "Muito tempo",
+							"test_ambiguous": true,
+							"test_datetime": null
+						},
+						{
+							"test_choice_ID": 1002,
+							"test_question": "Relativo ao universo muito pouco",
+							"test_ambiguous": true,
+							"test_datetime": null
+						},
+						{
+							"test_choice_ID": 1013,
+							"test_question": "100.000 anos",
+							"test_ambiguous": false,
+							"test_datetime": null
+						}
+						]
+	},
+	{ 
+		"test_ID": 1006,
+		"test_foreign_UID": 9999,
+		"test_foreign_course_ID": 1001,
+		"test_foreign_class_ID": 1003,
+		"test_question": "Qual número atomico do Queijo?",
+		"test_useranswer": 1001,
+		"test_rightanswer": 1013,
+		"test_choices": [
+						{
+							"test_choice_ID": 1003,
+							"test_question": "10",
+							"test_ambiguous": true,
+							"test_datetime": null
+						},
+						{
+							"test_choice_ID": 1005,
+							"test_question": "Relativo ao metaverso, nada",
+							"test_ambiguous": true,
+							"test_datetime": null
+						},
+						{
+							"test_choice_ID": 1001,
+							"test_question": "NDA",
+							"test_ambiguous": false,
+							"test_datetime": null
+						}
+						]
+	},
+	{ 
+		"test_ID": 1010,
+		"test_foreign_UID": 9999,
+		"test_foreign_course_ID": 1001,
+		"test_foreign_class_ID": 1002,
+		"test_question": "Se em um ninho de mafagafos tem 5 mafagafinhos?",
+		"test_useranswer": 0,
+		"test_rightanswer": 1018,
+		"test_choices": [
+						{
+							"test_choice_ID": 1045,
+							"test_question": "Nenhum",
+							"test_ambiguous": true,
+							"test_datetime": null
+						},
+						{
+							"test_choice_ID": 1018,
+							"test_question": "Alguns",
+							"test_ambiguous": true,
+							"test_datetime": null
+						},
+						{
+							"test_choice_ID": 1056,
+							"test_question": "O que são mafagafos?",
+							"test_ambiguous": false,
+							"test_datetime": null
+						}
+						]
+	}
+]
