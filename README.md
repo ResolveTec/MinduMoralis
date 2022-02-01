@@ -23,6 +23,7 @@ File Storage: IPFS - moralis node.
 
 ## Main further implementations (next issues)
 - Smart Contracts (forbid transfer of registration and certificates, NFT COURSE shared ownwership (for partners and course investors).
+- Walletconnect implementation
 - Mindu Coin Tokenomics implementation
 - UI (mobile view, customization for white label)
 - IPFS (FILECOIN implemantation)
